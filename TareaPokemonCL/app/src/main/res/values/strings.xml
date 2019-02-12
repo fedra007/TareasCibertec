@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TareaPokemonCL</string>
+    <string name="namePokemon">Pokemon</string>
+    <string name="btSearch">Buscar</string>
+    <string name="name">Pokemon</string>
+    <string name="height">Talla</string>
+    <string name="weight">Peso</string>
+</resources>
